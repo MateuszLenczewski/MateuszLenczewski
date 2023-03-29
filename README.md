@@ -3,7 +3,7 @@
 # Backend Developer and CS Student
 ### About Me 
 ---
-I am a Bachelor's degree student majoring in Computer Science.currently working as a software developer at Sollers Consulting.
+I am a Bachelor's degree student majoring in Computer Science currently working as a software developer at Sollers Consulting.
 
 ### Languages and Tools 
 ---
