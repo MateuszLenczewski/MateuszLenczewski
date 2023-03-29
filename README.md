@@ -1,12 +1,9 @@
 ### Hi there 👋, I'm Mateusz
 
-# Backend Developer and CS Student
-### About Me 
+### Backend Developer and CS Student
+#### I am a Bachelor's degree student majoring in Computer Science, currently working as a software developer at Sollers Consulting.
 ---
-I am a Bachelor's degree student majoring in Computer Science, currently working as a software developer at Sollers Consulting.
-
 ### Languages and Tools 
----
 <p align="left">
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" />
@@ -20,6 +17,7 @@ I am a Bachelor's degree student majoring in Computer Science, currently working
   <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
 </p>
 
-### Contact me
 ---
+
+### Contact me
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2>" />](https://www.linkedin.com/in/mateusz-lenczewski)&nbsp;&nbsp;&nbsp;[<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/#EA4335" />](mailto:mateuszromanlenczewski@gmail.com)
