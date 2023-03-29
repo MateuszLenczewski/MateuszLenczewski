@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mateusz
 
-# Mateusz Lenczewski
+# Backend Developer and CS Student
 ### About Me 
 ---
 I am a Bachelor's degree student majoring in Computer Science. I am currently working as a software developer at Sollers Consulting.
