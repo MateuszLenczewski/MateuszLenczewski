@@ -18,4 +18,7 @@
 ---
 
 ### Contact me
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2>" />](https://www.linkedin.com/in/mateusz-lenczewski)&nbsp;&nbsp;&nbsp;[<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/#EA4335" />](mailto:mateuszromanlenczewski@gmail.com)
+
+<a href="https://www.linkedin.com/in/mateusz-lenczewski/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Dawid Lachowicz on LinkedIn" target="_blank" rel="noopener" width="36" height="36">
+</a>
