@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mateusz
 
 ### Backend Developer and CS Student
-#### I am a Bachelor's degree student majoring in Computer Science, currently working as a software developer at Sollers Consulting.
+#### I am a Bachelor's degree student majoring in Computer Science, currently working as a SWE intern at Google.
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
